@@ -1,0 +1,16 @@
+ header{
+
+    text-indent:10%;
+    background-color: darkblue;
+    a{
+        color: aliceblue;
+      }
+        }
+
+hr{
+    color: black;
+    background-color: black;
+}
+body{
+    background-color: rgb(173, 184, 247);
+}
